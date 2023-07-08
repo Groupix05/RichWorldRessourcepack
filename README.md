@@ -9,3 +9,4 @@ This include :
 - banners-on-beds-resource-pack-v3
 - rwt-translations-v2-5
 - TCC resourcepack 1.1.1
+- Bablopack2 - By Bapa 1.5.4 animé ! - lite
